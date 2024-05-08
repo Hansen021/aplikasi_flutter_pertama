@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+hasil video output 
+
+
+Uploading WhatsApp Video 2024-05-08 at 13.05.08_822c2c00.mp4…
+
